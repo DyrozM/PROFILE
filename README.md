@@ -1,4 +1,5 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4D12AQH8wFBWTJpYRQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1688545854206?e=1748476800&v=beta&t=UMDUFouS307FZ2oIfZsMMVqhSAWrIJ6pqacPJef5h_g)
+![Banner](https://b1463816.smushcdn.com/1463816/wp-content/uploads/2015/04/banner-web-development.png?lossy=2&strip=1&webp=1)
+
 
 # ¡Hola! Soy Kevin Martínez 👋
 
