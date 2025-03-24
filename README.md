@@ -58,7 +58,7 @@
 
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes contactarme o seguirme a través de las siguientes plataformas:
 
-[![Instagram](https://img.icons8.com/ios-filled/40/ff69b4/instagram-new.png)](https://www.instagram.com/tu_usuario)  [![LinkedIn](https://img.icons8.com/ios-filled/40/0077b5/linkedin.png)](https://www.linkedin.com/in/tu-usuario)  [![Gmail](https://img.icons8.com/ios-filled/40/ea4335/gmail.png)](mailto:tu_correo@gmail.com)
+[![Instagram](https://img.icons8.com/ios-filled/40/ff69b4/instagram-new.png)]([https://www.instagram.com/tu_usuario](https://www.instagram.com/iamkev_martz?igsh=emlhczJrazlnc2Rz))  [![LinkedIn](https://img.icons8.com/ios-filled/40/0077b5/linkedin.png)]([https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/kevin-martinez-020313199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  [![Gmail](https://img.icons8.com/ios-filled/40/ea4335/gmail.png)](martinezkevin084@gmail.com)
 
 
 
