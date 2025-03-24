@@ -31,7 +31,24 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 
-   
+# 💼 Mis Proyectos
+
+¡Bienvenido a mi perfil de GitHub! Aquí te dejo una lista de algunos de mis proyectos más recientes.
+
+## 🚀 **Proyectos Recientes**
+
+| Proyecto | Descripción |
+|----------|-------------|
+| **Sistema Contable**  | Un sistema de contabilidad sencillo para la gestión de ingresos y egresos en una empresa. 💰 |
+| **Portafolio** | Un portafolio personal para mostrar mis habilidades y proyectos anteriores. 🖥️ |
+| **Kaban Board** | Aplicación para gestionar proyectos y tareas de manera visual, optimizando flujos de trabajo. 📋 |
+| **Calculadora** | Una calculadora básica con funcionalidades avanzadas como operaciones científicas. ➗ |
+
+---
+
+
+¡Espero que disfrutes explorando estos proyectos! 💻
+
 ## 📞 Contacto:
 - 📧 Correo: [kevinmartinez084@gmail.com](mailto:kevin.martinez@mail.com)
 - 🌐 LinkedIn: [@kevinmartinez](https://www.linkedin.com/in/kevin-martinez-020313199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
