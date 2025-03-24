@@ -3,16 +3,15 @@
 
 # ¡Hola! Soy Kevin Martínez 👋
 
-### 👨‍💻 Sobre mí:
-- 💼 Ingeniero en Software con experiencia en desarrollo frontend y backend.
-- 🔧 Conocimientos en **C#, ASP.NET Core**, **React.js**, **Node.js**, **PHP**, **Flutter**, **SQL Server**, **HTML/CSS**.
-- 💡 Apasionado por aprender nuevas tecnologías y mejorar habilidades.
-- 🛠️ Disfruto desarrollando aplicaciones que ofrecen soluciones eficientes.
-- 🎯 Enfocado en la calidad del código y el trabajo en equipo.
-- 🚀 Siempre buscando proyectos desafiantes que me ayuden a crecer.
+### 👨‍💻 Sobre mí
+- **Ingeniero en Software** con experiencia en frontend y backend.
+- Manejo de tecnologías como **C#**, **React.js**, **Node.js**, **Flutter** y más.
+- Apasionado por aprender y mejorar habilidades continuamente.
+- Foco en escribir **código limpio y eficiente**.
+- Trabajo bien en equipo y busco **desafíos** para crecer profesionalmente.
  
 
-### 🔧 Tecnologías y Herramientas:
+### 🔧 Tecnologías y Herramientas
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=asp.net&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
