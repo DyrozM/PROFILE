@@ -11,9 +11,6 @@
 - 🎯 Enfocado en la calidad del código y el trabajo en equipo.
 - 🚀 Siempre buscando proyectos desafiantes que me ayuden a crecer.
  
-## 🚀 Mi estado en GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kevinmartinez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ## 🔧 Tecnologías y Herramientas:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=asp.net&logoColor=white)
@@ -46,7 +43,6 @@
 
 ---
 
-
 ¡Espero que disfrutes explorando estos proyectos! 💻
 
 # 📬 **Contacto**
@@ -54,6 +50,10 @@
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes contactarme o seguirme a través de las siguientes plataformas:
 
 [![Instagram](https://img.icons8.com/ios-filled/40/ff69b4/instagram-new.png)](https://www.instagram.com/tu_usuario)  [![LinkedIn](https://img.icons8.com/ios-filled/40/0077b5/linkedin.png)](https://www.linkedin.com/in/tu-usuario)  [![Gmail](https://img.icons8.com/ios-filled/40/ea4335/gmail.png)](mailto:tu_correo@gmail.com)
+
+
+## 🚀 Mi estado en GitHub:
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kevinmartinez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 
 
