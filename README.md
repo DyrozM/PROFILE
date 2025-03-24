@@ -1,4 +1,4 @@
-![Banner](https://b1463816.smushcdn.com/1463816/wp-content/uploads/2015/04/banner-web-development.png?lossy=2&strip=1&webp=1)
+![Banner](https://www.saqibmanzoor.com/wp-content/uploads/2020/01/web-development-banner-three.jpg)
 
 
 # ¡Hola! Soy Kevin Martínez 👋
