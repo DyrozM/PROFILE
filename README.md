@@ -3,7 +3,7 @@
 
 # ¡Hola! Soy Kevin Martínez 👋
 
-## 👨‍💻 Sobre mí:
+### 👨‍💻 Sobre mí:
 - 💼 Ingeniero en Software con experiencia en desarrollo frontend y backend.
 - 🔧 Conocimientos en **C#, ASP.NET Core**, **React.js**, **Node.js**, **PHP**, **Flutter**, **SQL Server**, **HTML/CSS**.
 - 💡 Apasionado por aprender nuevas tecnologías y mejorar habilidades.
@@ -11,7 +11,8 @@
 - 🎯 Enfocado en la calidad del código y el trabajo en equipo.
 - 🚀 Siempre buscando proyectos desafiantes que me ayuden a crecer.
  
-## 🔧 Tecnologías y Herramientas:
+
+### 🔧 Tecnologías y Herramientas:
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=asp.net&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
@@ -28,11 +29,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 
-# 💼 Mis Proyectos
+### 💼 Mis Proyectos
 
 ¡Bienvenido a mi perfil de GitHub! Aquí te dejo una lista de algunos de mis proyectos más recientes.
 
-## 🚀 **Proyectos Recientes**
+### 🚀 **Proyectos Recientes**
 
 | Proyecto | Descripción |
 |----------|-------------|
@@ -41,19 +42,27 @@
 | **Kaban Board** | Aplicación para gestionar proyectos y tareas de manera visual, optimizando flujos de trabajo. 📋 |
 | **Calculadora** | Una calculadora básica con funcionalidades avanzadas como operaciones científicas. ➗ |
 
----
 
-¡Espero que disfrutes explorando estos proyectos! 💻
 
-# 📬 **Contacto**
+### 💼 **Mis Actitudes Profesionales**
+
+- 🚀 **Proactividad**: Siempre tomando la iniciativa y buscando soluciones.
+- 🤝 **Trabajo en Equipo**: Colaboración efectiva y comunicación abierta.
+- 📚 **Aprendizaje Continuo**: Disposición constante para aprender y mejorar.
+- 🔍 **Atención al Detalle**: Enfocado en entregar trabajo de calidad sin errores.
+
+### 🚀 Mi estado en GitHub:
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kevinmartinez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+
+### 📬 **Contacto**
 
 ¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes contactarme o seguirme a través de las siguientes plataformas:
 
 [![Instagram](https://img.icons8.com/ios-filled/40/ff69b4/instagram-new.png)](https://www.instagram.com/tu_usuario)  [![LinkedIn](https://img.icons8.com/ios-filled/40/0077b5/linkedin.png)](https://www.linkedin.com/in/tu-usuario)  [![Gmail](https://img.icons8.com/ios-filled/40/ea4335/gmail.png)](mailto:tu_correo@gmail.com)
 
 
-## 🚀 Mi estado en GitHub:
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kevinmartinez&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
 
 
 
